@@ -1,3 +1,3 @@
-# blogs
+# DSA
 
 Visit website

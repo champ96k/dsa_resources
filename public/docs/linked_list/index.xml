@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linked List on DSA Roadmap</title>
-    <link>https://dsa-resources.netlify.app/docs/linked_list/</link>
+    <link>http://localhost:50015/docs/linked_list/</link>
     <description>Recent content in Linked List on DSA Roadmap</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright (c) 2024 by Tushar Nikam</copyright>
     <lastBuildDate>Thu, 07 Sep 2023 16:04:48 +0200</lastBuildDate>
-    <atom:link href="https://dsa-resources.netlify.app/docs/linked_list/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:50015/docs/linked_list/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linked List Introduction</title>
-      <link>https://dsa-resources.netlify.app/docs/linked_list/linked-list-introduction/</link>
+      <link>http://localhost:50015/docs/linked_list/linked-list-introduction/</link>
       <pubDate>Thu, 07 Sep 2023 16:04:48 +0200</pubDate>
-      <guid>https://dsa-resources.netlify.app/docs/linked_list/linked-list-introduction/</guid>
+      <guid>http://localhost:50015/docs/linked_list/linked-list-introduction/</guid>
       <description></description>
     </item>
   </channel>

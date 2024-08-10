@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Analytics of Algorithm on DSA Roadmap</title>
-    <link>https://dsa-resources.netlify.app/docs/analytics_of_algorithm/</link>
+    <link>http://localhost:50015/docs/analytics_of_algorithm/</link>
     <description>Recent content in Analytics of Algorithm on DSA Roadmap</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright (c) 2024 by Tushar Nikam</copyright>
     <lastBuildDate>Thu, 07 Sep 2023 16:04:48 +0200</lastBuildDate>
-    <atom:link href="https://dsa-resources.netlify.app/docs/analytics_of_algorithm/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:50015/docs/analytics_of_algorithm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Time Complexity Analysis</title>
-      <link>https://dsa-resources.netlify.app/docs/analytics_of_algorithm/time-complexity-analysis/</link>
+      <link>http://localhost:50015/docs/analytics_of_algorithm/time-complexity-analysis/</link>
       <pubDate>Thu, 07 Sep 2023 16:04:48 +0200</pubDate>
-      <guid>https://dsa-resources.netlify.app/docs/analytics_of_algorithm/time-complexity-analysis/</guid>
+      <guid>http://localhost:50015/docs/analytics_of_algorithm/time-complexity-analysis/</guid>
       <description>Analytics of Algorithm Time Complexity Analysis Space Complexity Analysis Big O, Big Ω, and Big Θ Notations Best, Average, and Worst Case Analysis Amortized Analysis Recurrence Relations Master Theorem Complexity Classes (P, NP, NP-Complete, NP-Hard) </description>
     </item>
   </channel>

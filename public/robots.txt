@@ -1,3 +1,3 @@
 User-agent: *
 Disallow: /admin/
-Sitemap: https://dsa-resources.netlify.app/sitemap.xml
+Sitemap: http://localhost:50015/sitemap.xml

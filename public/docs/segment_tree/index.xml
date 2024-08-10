@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Segment and Binary Indexed Trees on DSA Roadmap</title>
-    <link>http://localhost:1313/docs/segment_tree/</link>
+    <link>https://dsa-resources.netlify.app/docs/segment_tree/</link>
     <description>Recent content in Segment and Binary Indexed Trees on DSA Roadmap</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright (c) 2024 by Tushar Nikam</copyright>
     <lastBuildDate>Thu, 07 Sep 2023 16:04:48 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/docs/segment_tree/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dsa-resources.netlify.app/docs/segment_tree/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Introduction</title>
-      <link>http://localhost:1313/docs/segment_tree/introduction/</link>
+      <title>Segment and Binary Indexed Trees</title>
+      <link>https://dsa-resources.netlify.app/docs/segment_tree/segment-and-binary-indexed-trees/</link>
       <pubDate>Thu, 07 Sep 2023 16:04:48 +0200</pubDate>
-      <guid>http://localhost:1313/docs/segment_tree/introduction/</guid>
+      <guid>https://dsa-resources.netlify.app/docs/segment_tree/segment-and-binary-indexed-trees/</guid>
       <description></description>
     </item>
   </channel>

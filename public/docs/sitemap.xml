@@ -1,333 +1,326 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
+
     <url>
-      <loc>http://localhost:1313/docs/guides/</loc>
+      <loc>https://dsa-resources.netlify.app/docs/guides/</loc>
       <lastmod>2023-09-07T16:06:50+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
-    
+
     <url>
-      <loc>http://localhost:1313/docs/analytics_of_algorithm/</loc>
+      <loc>https://dsa-resources.netlify.app/docs/analytics_of_algorithm/</loc>
       <lastmod>2023-09-07T16:06:50+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
-    
+
     <url>
-      <loc>http://localhost:1313/docs/mathematics/</loc>
+      <loc>https://dsa-resources.netlify.app/docs/mathematics/</loc>
       <lastmod>2023-09-07T16:06:50+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
-    
+
     <url>
-      <loc>http://localhost:1313/docs/bit_magic/</loc>
+      <loc>https://dsa-resources.netlify.app/docs/bit_magic/</loc>
       <lastmod>2023-09-07T16:06:50+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
-    
+
     <url>
-      <loc>http://localhost:1313/docs/recursion/</loc>
+      <loc>https://dsa-resources.netlify.app/docs/recursion/</loc>
       <lastmod>2023-09-07T16:06:50+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
-    
+
     <url>
-      <loc>http://localhost:1313/docs/arrays/</loc>
+      <loc>https://dsa-resources.netlify.app/docs/arrays/</loc>
       <lastmod>2023-09-07T16:06:50+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
-    
+
     <url>
-      <loc>http://localhost:1313/docs/searching/</loc>
+      <loc>https://dsa-resources.netlify.app/docs/searching/</loc>
       <lastmod>2023-09-07T16:06:50+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
-    
+
     <url>
-      <loc>http://localhost:1313/docs/sorting/</loc>
+      <loc>https://dsa-resources.netlify.app/docs/sorting/</loc>
       <lastmod>2023-09-07T16:06:50+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
-    
+
     <url>
-      <loc>http://localhost:1313/docs/matrix/</loc>
+      <loc>https://dsa-resources.netlify.app/docs/matrix/</loc>
       <lastmod>2023-09-07T16:06:50+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
-    
+
     <url>
-      <loc>http://localhost:1313/docs/hashing/</loc>
+      <loc>https://dsa-resources.netlify.app/docs/hashing/</loc>
       <lastmod>2023-09-07T16:06:50+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
-    
+
     <url>
-      <loc>http://localhost:1313/docs/resources/</loc>
-      <lastmod>2024-02-27T09:30:56+01:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-    </url>
-    
-    <url>
-      <loc>http://localhost:1313/docs/string/</loc>
+      <loc>https://dsa-resources.netlify.app/docs/string/</loc>
       <lastmod>2023-09-07T16:06:50+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
-    
+
     <url>
-      <loc>http://localhost:1313/docs/linked_list/</loc>
+      <loc>https://dsa-resources.netlify.app/docs/linked_list/</loc>
       <lastmod>2023-09-07T16:06:50+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
-    
+
     <url>
-      <loc>http://localhost:1313/docs/stack/</loc>
+      <loc>https://dsa-resources.netlify.app/docs/stack/</loc>
       <lastmod>2023-09-07T16:06:50+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
-    
+
     <url>
-      <loc>http://localhost:1313/docs/queue/</loc>
+      <loc>https://dsa-resources.netlify.app/docs/queue/</loc>
       <lastmod>2023-09-07T16:06:50+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
-    
+
     <url>
-      <loc>http://localhost:1313/docs/deque/</loc>
+      <loc>https://dsa-resources.netlify.app/docs/deque/</loc>
       <lastmod>2023-09-07T16:06:50+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
-    
+
     <url>
-      <loc>http://localhost:1313/docs/tree/</loc>
+      <loc>https://dsa-resources.netlify.app/docs/tree/</loc>
       <lastmod>2023-09-07T16:06:50+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
-    
+
     <url>
-      <loc>http://localhost:1313/docs/binary_search_tree/</loc>
+      <loc>https://dsa-resources.netlify.app/docs/binary_search_tree/</loc>
       <lastmod>2023-09-07T16:06:50+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
-    
+
     <url>
-      <loc>http://localhost:1313/docs/heap/</loc>
+      <loc>https://dsa-resources.netlify.app/docs/heap/</loc>
       <lastmod>2023-09-07T16:06:50+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
-    
+
     <url>
-      <loc>http://localhost:1313/docs/graph/</loc>
+      <loc>https://dsa-resources.netlify.app/docs/graph/</loc>
       <lastmod>2023-09-07T16:06:50+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
-    
+
     <url>
-      <loc>http://localhost:1313/docs/greedy/</loc>
+      <loc>https://dsa-resources.netlify.app/docs/greedy/</loc>
       <lastmod>2023-09-07T16:06:50+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
-    
+
     <url>
-      <loc>http://localhost:1313/docs/backtracking/</loc>
+      <loc>https://dsa-resources.netlify.app/docs/backtracking/</loc>
       <lastmod>2023-09-07T16:06:50+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
-    
+
     <url>
-      <loc>http://localhost:1313/docs/dynamic_programming/</loc>
+      <loc>https://dsa-resources.netlify.app/docs/dynamic_programming/</loc>
       <lastmod>2023-09-07T16:06:50+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
-    
+
     <url>
-      <loc>http://localhost:1313/docs/trie/</loc>
+      <loc>https://dsa-resources.netlify.app/docs/trie/</loc>
       <lastmod>2023-09-07T16:06:50+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
-    
+
     <url>
-      <loc>http://localhost:1313/docs/segment_tree/</loc>
+      <loc>https://dsa-resources.netlify.app/docs/segment_tree/</loc>
       <lastmod>2023-09-07T16:06:50+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
-    
+
     <url>
-      <loc>http://localhost:1313/docs/disjoint_set/</loc>
+      <loc>https://dsa-resources.netlify.app/docs/disjoint_set/</loc>
       <lastmod>2023-09-07T16:06:50+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     <url>
-        <loc>http://localhost:1313/docs/guides/dsa-guide/</loc>
+        <loc>https://dsa-resources.netlify.app/docs/guides/dsa-guide/</loc>
         <lastmod>2023-09-07T16:04:48+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/analytics_of_algorithm/time-complexity-analysis/</loc>
+        <loc>https://dsa-resources.netlify.app/docs/analytics_of_algorithm/time-complexity-analysis/</loc>
         <lastmod>2023-09-07T16:04:48+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/mathematics/introduction/</loc>
+        <loc>https://dsa-resources.netlify.app/docs/mathematics/mathematics-introduction/</loc>
         <lastmod>2023-09-07T16:04:48+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/bit_magic/bit-manipulation/</loc>
+        <loc>https://dsa-resources.netlify.app/docs/bit_magic/bit-manipulation/</loc>
         <lastmod>2023-09-07T16:04:48+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/recursion/introduction/</loc>
+        <loc>https://dsa-resources.netlify.app/docs/recursion/basics-of-recursion/</loc>
         <lastmod>2023-09-07T16:04:48+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/arrays/introduction-to-arrays/</loc>
+        <loc>https://dsa-resources.netlify.app/docs/arrays/introduction-to-arrays/</loc>
         <lastmod>2023-09-07T16:04:48+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/searching/introduction/</loc>
+        <loc>https://dsa-resources.netlify.app/docs/searching/searching-basic/</loc>
         <lastmod>2023-09-07T16:04:48+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/sorting/introduction/</loc>
+        <loc>https://dsa-resources.netlify.app/docs/sorting/sorting/</loc>
         <lastmod>2023-09-07T16:04:48+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/matrix/introduction/</loc>
+        <loc>https://dsa-resources.netlify.app/docs/matrix/matrix-introduction/</loc>
         <lastmod>2023-09-07T16:04:48+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/hashing/hashing-introduction/</loc>
+        <loc>https://dsa-resources.netlify.app/docs/hashing/hashing-introduction/</loc>
         <lastmod>2023-09-07T16:04:48+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/string/string/</loc>
+        <loc>https://dsa-resources.netlify.app/docs/string/string/</loc>
         <lastmod>2023-09-07T16:04:48+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/linked_list/introduction/</loc>
+        <loc>https://dsa-resources.netlify.app/docs/linked_list/linked-list-introduction/</loc>
         <lastmod>2023-09-07T16:04:48+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/stack/stack/</loc>
+        <loc>https://dsa-resources.netlify.app/docs/stack/stack/</loc>
         <lastmod>2023-09-07T16:04:48+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/queue/queue-introduction/</loc>
+        <loc>https://dsa-resources.netlify.app/docs/queue/queue-introduction/</loc>
         <lastmod>2023-09-07T16:04:48+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/deque/deque/</loc>
+        <loc>https://dsa-resources.netlify.app/docs/deque/deque/</loc>
         <lastmod>2023-09-07T16:04:48+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/tree/introduction/</loc>
+        <loc>https://dsa-resources.netlify.app/docs/tree/introduction/</loc>
         <lastmod>2023-09-07T16:04:48+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/binary_search_tree/binary-search-tree/</loc>
+        <loc>https://dsa-resources.netlify.app/docs/binary_search_tree/binary-search-tree/</loc>
         <lastmod>2023-09-07T16:04:48+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/heap/heap-basic/</loc>
+        <loc>https://dsa-resources.netlify.app/docs/heap/heap-basic/</loc>
         <lastmod>2023-09-07T16:04:48+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/graph/introduction/</loc>
+        <loc>https://dsa-resources.netlify.app/docs/graph/graph-introduction/</loc>
         <lastmod>2023-09-07T16:04:48+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/greedy/introduction/</loc>
+        <loc>https://dsa-resources.netlify.app/docs/greedy/greedy-introduction/</loc>
         <lastmod>2023-09-07T16:04:48+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/backtracking/backtracking-basics/</loc>
+        <loc>https://dsa-resources.netlify.app/docs/backtracking/backtracking-basics/</loc>
         <lastmod>2023-09-07T16:04:48+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/dynamic_programming/introduction/</loc>
+        <loc>https://dsa-resources.netlify.app/docs/dynamic_programming/introduction/</loc>
         <lastmod>2023-09-07T16:04:48+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/trie/trie-basic/</loc>
+        <loc>https://dsa-resources.netlify.app/docs/trie/trie-basic/</loc>
         <lastmod>2023-09-07T16:04:48+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/segment_tree/introduction/</loc>
+        <loc>https://dsa-resources.netlify.app/docs/segment_tree/segment-and-binary-indexed-trees/</loc>
         <lastmod>2023-09-07T16:04:48+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/disjoint_set/disjoint-set-basics/</loc>
+        <loc>https://dsa-resources.netlify.app/docs/disjoint_set/disjoint-set-basics/</loc>
         <lastmod>2023-09-07T16:04:48+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>

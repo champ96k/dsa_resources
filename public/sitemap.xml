@@ -2,280 +2,280 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:50015/docs/guides/</loc>
+    <loc>http://localhost:50136/docs/guides/</loc>
     <lastmod>2023-09-07T16:06:50+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/guides/dsa-guide/</loc>
+    <loc>http://localhost:50136/docs/guides/example/</loc>
     <lastmod>2023-09-07T16:04:48+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/analytics_of_algorithm/</loc>
+    <loc>http://localhost:50136/docs/analytics_of_algorithm/</loc>
     <lastmod>2023-09-07T16:06:50+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/analytics_of_algorithm/time-complexity-analysis/</loc>
+    <loc>http://localhost:50136/docs/analytics_of_algorithm/time_complexity_analysis/</loc>
     <lastmod>2023-09-07T16:04:48+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/mathematics/</loc>
+    <loc>http://localhost:50136/docs/mathematics/</loc>
     <lastmod>2023-09-07T16:06:50+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/mathematics/mathematics-introduction/</loc>
+    <loc>http://localhost:50136/docs/mathematics/introduction/</loc>
     <lastmod>2023-09-07T16:04:48+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/bit_magic/</loc>
+    <loc>http://localhost:50136/docs/bit_magic/</loc>
     <lastmod>2023-09-07T16:06:50+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/bit_magic/bit-manipulation/</loc>
+    <loc>http://localhost:50136/docs/bit_magic/bitwise_operators/</loc>
     <lastmod>2023-09-07T16:04:48+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/recursion/</loc>
+    <loc>http://localhost:50136/docs/recursion/</loc>
     <lastmod>2023-09-07T16:06:50+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/recursion/basics-of-recursion/</loc>
+    <loc>http://localhost:50136/docs/recursion/introduction/</loc>
     <lastmod>2023-09-07T16:04:48+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/arrays/</loc>
+    <loc>http://localhost:50136/docs/arrays/</loc>
     <lastmod>2023-09-07T16:06:50+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/arrays/introduction-to-arrays/</loc>
+    <loc>http://localhost:50136/docs/arrays/introduction/</loc>
     <lastmod>2023-09-07T16:04:48+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/searching/</loc>
+    <loc>http://localhost:50136/docs/searching/</loc>
     <lastmod>2023-09-07T16:06:50+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/searching/searching-basic/</loc>
+    <loc>http://localhost:50136/docs/searching/introduction/</loc>
     <lastmod>2023-09-07T16:04:48+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/sorting/</loc>
+    <loc>http://localhost:50136/docs/sorting/</loc>
     <lastmod>2023-09-07T16:06:50+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/sorting/sorting/</loc>
+    <loc>http://localhost:50136/docs/sorting/introduction/</loc>
     <lastmod>2023-09-07T16:04:48+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/matrix/</loc>
+    <loc>http://localhost:50136/docs/matrix/</loc>
     <lastmod>2023-09-07T16:06:50+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/matrix/matrix-introduction/</loc>
+    <loc>http://localhost:50136/docs/matrix/introduction/</loc>
     <lastmod>2023-09-07T16:04:48+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/hashing/</loc>
+    <loc>http://localhost:50136/docs/hashing/</loc>
     <lastmod>2023-09-07T16:06:50+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/hashing/hashing-introduction/</loc>
+    <loc>http://localhost:50136/docs/hashing/introduction/</loc>
     <lastmod>2023-09-07T16:04:48+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/string/</loc>
+    <loc>http://localhost:50136/docs/string/</loc>
     <lastmod>2023-09-07T16:06:50+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/string/string/</loc>
+    <loc>http://localhost:50136/docs/string/introduction/</loc>
     <lastmod>2023-09-07T16:04:48+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/linked_list/</loc>
+    <loc>http://localhost:50136/docs/linked_list/</loc>
     <lastmod>2023-09-07T16:06:50+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/linked_list/linked-list-introduction/</loc>
+    <loc>http://localhost:50136/docs/linked_list/introduction/</loc>
     <lastmod>2023-09-07T16:04:48+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/stack/</loc>
+    <loc>http://localhost:50136/docs/stack/</loc>
     <lastmod>2023-09-07T16:06:50+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/stack/stack/</loc>
+    <loc>http://localhost:50136/docs/stack/introduction/</loc>
     <lastmod>2023-09-07T16:04:48+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/queue/</loc>
+    <loc>http://localhost:50136/docs/queue/</loc>
     <lastmod>2023-09-07T16:06:50+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/queue/queue-introduction/</loc>
+    <loc>http://localhost:50136/docs/queue/introduction/</loc>
     <lastmod>2023-09-07T16:04:48+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/deque/</loc>
+    <loc>http://localhost:50136/docs/deque/</loc>
     <lastmod>2023-09-07T16:06:50+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/deque/deque/</loc>
+    <loc>http://localhost:50136/docs/deque/deque_basics/</loc>
     <lastmod>2023-09-07T16:04:48+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/tree/</loc>
+    <loc>http://localhost:50136/docs/tree/</loc>
     <lastmod>2023-09-07T16:06:50+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/tree/introduction/</loc>
+    <loc>http://localhost:50136/docs/tree/introduction/</loc>
     <lastmod>2023-09-07T16:04:48+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/binary_search_tree/</loc>
+    <loc>http://localhost:50136/docs/binary_search_tree/</loc>
     <lastmod>2023-09-07T16:06:50+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/binary_search_tree/binary-search-tree/</loc>
+    <loc>http://localhost:50136/docs/binary_search_tree/bst_basics/</loc>
     <lastmod>2023-09-07T16:04:48+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/heap/</loc>
+    <loc>http://localhost:50136/docs/heap/</loc>
     <lastmod>2023-09-07T16:06:50+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/heap/heap-basic/</loc>
+    <loc>http://localhost:50136/docs/heap/introduction/</loc>
     <lastmod>2023-09-07T16:04:48+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/graph/</loc>
+    <loc>http://localhost:50136/docs/graph/</loc>
     <lastmod>2023-09-07T16:06:50+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/graph/graph-introduction/</loc>
+    <loc>http://localhost:50136/docs/graph/introduction/</loc>
     <lastmod>2023-09-07T16:04:48+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/greedy/</loc>
+    <loc>http://localhost:50136/docs/greedy/</loc>
     <lastmod>2023-09-07T16:06:50+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/greedy/greedy-introduction/</loc>
+    <loc>http://localhost:50136/docs/greedy/introduction/</loc>
     <lastmod>2023-09-07T16:04:48+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/backtracking/</loc>
+    <loc>http://localhost:50136/docs/backtracking/</loc>
     <lastmod>2023-09-07T16:06:50+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/backtracking/backtracking-basics/</loc>
+    <loc>http://localhost:50136/docs/backtracking/backtracking_basics/</loc>
     <lastmod>2023-09-07T16:04:48+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/dynamic_programming/</loc>
+    <loc>http://localhost:50136/docs/dynamic_programming/</loc>
     <lastmod>2023-09-07T16:06:50+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/dynamic_programming/introduction/</loc>
+    <loc>http://localhost:50136/docs/dynamic_programming/introduction/</loc>
     <lastmod>2023-09-07T16:04:48+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/trie/</loc>
+    <loc>http://localhost:50136/docs/trie/</loc>
     <lastmod>2023-09-07T16:06:50+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/trie/trie-basic/</loc>
+    <loc>http://localhost:50136/docs/trie/introduction/</loc>
     <lastmod>2023-09-07T16:04:48+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/segment_tree/</loc>
+    <loc>http://localhost:50136/docs/segment_tree/</loc>
     <lastmod>2023-09-07T16:06:50+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/segment_tree/segment-and-binary-indexed-trees/</loc>
+    <loc>http://localhost:50136/docs/segment_tree/introduction/</loc>
     <lastmod>2023-09-07T16:04:48+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/disjoint_set/</loc>
+    <loc>http://localhost:50136/docs/disjoint_set/</loc>
     <lastmod>2023-09-07T16:06:50+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/disjoint_set/disjoint-set-basics/</loc>
+    <loc>http://localhost:50136/docs/disjoint_set/disjoint_set_basics/</loc>
     <lastmod>2023-09-07T16:04:48+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/privacy/</loc>
+    <loc>http://localhost:50136/privacy/</loc>
     <lastmod>2027-08-07T17:19:07+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/</loc>
+    <loc>http://localhost:50136/</loc>
     <lastmod>2023-09-07T16:33:54+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/docs/</loc>
+    <loc>http://localhost:50136/docs/</loc>
     <lastmod>2023-09-07T16:06:50+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/categories/</loc>
+    <loc>http://localhost:50136/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/contributors/</loc>
+    <loc>http://localhost:50136/contributors/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:50015/tags/</loc>
+    <loc>http://localhost:50136/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Queue on DSA Roadmap</title>
-    <link>http://localhost:50015/docs/queue/</link>
+    <link>http://localhost:50136/docs/queue/</link>
     <description>Recent content in Queue on DSA Roadmap</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright (c) 2024 by Tushar Nikam</copyright>
     <lastBuildDate>Thu, 07 Sep 2023 16:04:48 +0200</lastBuildDate>
-    <atom:link href="http://localhost:50015/docs/queue/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:50136/docs/queue/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Queue Introduction</title>
-      <link>http://localhost:50015/docs/queue/queue-introduction/</link>
+      <link>http://localhost:50136/docs/queue/introduction/</link>
       <pubDate>Thu, 07 Sep 2023 16:04:48 +0200</pubDate>
-      <guid>http://localhost:50015/docs/queue/queue-introduction/</guid>
+      <guid>http://localhost:50136/docs/queue/introduction/</guid>
       <description></description>
     </item>
   </channel>
